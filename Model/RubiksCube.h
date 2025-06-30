@@ -132,12 +132,12 @@ public:
     /*
      * Rotational Moves on the Rubik Cubes
      *
-     * F, F’, F2,
-     * U, U’, U2,
-     * L, L’, L2,
-     * D, D’, D2,
-     * R, R’, R2,
-     * B, B’, B2
+     * F, F', F2,
+     * U, U', U2,
+     * L, L', L2,
+     * D, D', D2,
+     * R, R', R2,
+     * B, B', B2
      */
 
     virtual RubiksCube &f() = 0;

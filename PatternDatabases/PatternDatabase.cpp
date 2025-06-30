@@ -1,6 +1,4 @@
 //
-// Created by Lakshya Mittal on 17-02-2022.
-//
 
 #include "PatternDatabase.h"
 
